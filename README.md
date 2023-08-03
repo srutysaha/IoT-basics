@@ -1,7 +1,7 @@
 
 # IoT-Basics Repository
 
-This repository consists of IoT basic projects. All projects are in the form of Challenges.
+This repository consists of basic IoT projects and can be run using the official Arduino IDE.All projects are in the form of Challenges.
 
 
 
